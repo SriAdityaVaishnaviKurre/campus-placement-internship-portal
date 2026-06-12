@@ -1,0 +1,6 @@
+{
+  "name": "Campus Placement & Internship Portal",
+  "description": "A modern, professional web application connecting student applicants, recruiters, and placement officers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
