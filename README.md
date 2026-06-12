@@ -164,3 +164,25 @@ npx jest --verbose
 
 * 24A31A4660(Akshay Kountesh Tolem)
 
+---
+
+## Screenshots
+
+### Home Page
+![Home Page](images/home-page.png)
+
+### User Login
+![User Login](images/user-login.png)
+
+### User Registration
+![User Registration](images/user-registration.png)
+
+### Job Openings Portal
+![Job Openings Portal](images/job-openings-portal.png)
+
+### Student Dashboard
+![Student Dashboard](images/student-dashboard.png)
+
+### Job Details & Application Page
+![Job Details & Application Page](images/job-details-page.png)
+
