@@ -155,3 +155,12 @@ npx jest --verbose
 - All strict type matrices compile green.
 - Fully defensive state guarantees are in-place.
 - Ready for full-stack deployment evaluation.
+
+---
+
+## Contributors
+
+* Sri Aditya Vaishnavi Kurre
+
+* 24A31A4660(Akshay Kountesh Tolem)
+
